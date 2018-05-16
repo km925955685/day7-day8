@@ -1,0 +1,14 @@
+/*实现一个两栏布局，左侧占30%宽度，右侧占70%宽度*/
+.a{background-color: chartreuse;
+    height:10rem}
+ .b{background-color:darkred;
+        height:10rem}
+
+.a{position:absolute;
+    left:0;
+    top:0;
+    width:30%;}
+.b{width:70%;
+    position:absolute;
+left:30%;
+top:0}

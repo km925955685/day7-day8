@@ -1,0 +1,14 @@
+/*实现一个两栏布局，左侧固定宽度，右侧根据浏览器宽度进行自适应变化*/
+.a{background-color: chartreuse;
+    height:10rem}
+ .b{background-color:darkred;
+        height:10rem}
+
+.a{position:absolute;
+    left:0;
+    top:0;
+    width:7px;}
+.b{width:70%;
+    position:absolute;
+left:7px;
+top:0}

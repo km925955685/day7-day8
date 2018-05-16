@@ -26,6 +26,8 @@ height: 10rem;}
     margin-left: 5px;
     position:relative;
     top: 8rem;
+ 
+    
     
 background-color: #b2dd99}
 
@@ -66,4 +68,5 @@ padding-bottom: 1px}/*内边距拉多一个像素,就遮盖了下面的线*/
     background-color: white;
     height: 4rem;
 }
-    .flag a{text-decoration: none}
+    .flag a{text-decoration: none;
+        }

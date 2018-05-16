@@ -1,0 +1,20 @@
+.a{background-color: chartreuse;
+    height:10rem}
+.b{background-color:darkred;
+        height:10rem}
+.c{background-color:blue;
+            height:10rem}
+
+
+.b{float: left;
+   width: 100%;}
+
+ .a{float: left;
+    width:10px;
+margin-left:-100%}
+   .c{width:10px;
+   float:right;
+margin-left:-100px}
+
+
+
