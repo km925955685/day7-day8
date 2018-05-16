@@ -1,0 +1,52 @@
+#header {background:darkgray ;
+    width :100%}
+#boxa {width:960px;
+    margin:0 auto;
+    height:3rem;
+}
+#logo {margin-left:40px;
+float:left;
+line-height: 3rem}
+#logo ,  .a{color:white}
+
+#herf{float: right;
+     
+     }
+.clearfix {clear: both;
+   ;}
+
+
+#navigation {width: 100%;
+background-color:darkcyan;
+height:5rem}
+
+.flag{float:right;
+  border:black solid;
+    margin-left: 1rem;
+    position:relative;
+   top: 3rem;}
+
+#content1, #contentb{width:960px;
+margin:0 auto;
+}
+
+#contenta{border-bottom: slategrey solid}
+
+.options{border-radius: 5px 5px 0 0;
+         border-top:darkgrey solid;
+         border-right:darkgrey solid;
+         border-left:darkgrey solid;
+        float:left;
+         background-color:darkgray;
+        text-decoration: none}
+
+.f {display:flex;
+     width:100%}
+[data-f]{display:flex;
+    padding:60px;
+   flex: 1;
+    border:darkgray solid;
+margin:1}
+#footer{
+    text-align:center}
+.options a:focus,.options a:hover{background-color: white}
